@@ -28,3 +28,8 @@
 	<li><code>arr.length == 4</code></li>
 	<li><code>0 &lt;= arr[i] &lt;= 9</code></li>
 </ul>
+
+
+
+![Screen Shot 2023-08-04 at 1 00 14 AM](https://github.com/alx672219/leetcode/assets/113051612/82c23494-80aa-454e-a788-e407b5a0b1f3)
+![Screen Shot 2023-08-04 at 1 00 22 AM](https://github.com/alx672219/leetcode/assets/113051612/abf12468-a43d-466d-92b0-5653881557f5)
